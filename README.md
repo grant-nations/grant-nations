@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo! 😎
 
 #### My name is Grant Nations.
 
