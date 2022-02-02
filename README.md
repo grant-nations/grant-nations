@@ -17,6 +17,6 @@ Email: <nationsgrant@gmail.com>
 
 Website: https://www.grantnations.wtf
 
-LinkedIn: www.linkedin.com/in/grant-nations
+LinkedIn: https://www.linkedin.com/in/grant-nations
 
-Instagram: www.instagram.com/grantn13
+Instagram: https://www.instagram.com/grantn13
