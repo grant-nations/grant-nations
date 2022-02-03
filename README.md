@@ -15,8 +15,6 @@ Here are some things about me:
 
 Email: <nationsgrant@gmail.com>
 
-Website: https://www.grantnations.wtf
-
 LinkedIn: https://www.linkedin.com/in/grant-nations
 
 Instagram: https://www.instagram.com/grantn13
