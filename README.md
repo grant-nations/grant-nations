@@ -5,7 +5,7 @@
 Here are some things about me:
 
 - 👨‍🎓 I'm a student at the University of Utah double majoring in computer science and physics.
-- 🚀 My interests include quantum physics, artificial intelligence, blockchain, and commercial space flight.
+- 🚀 My interests include quantum physics, artificial intelligence, blockchain, web development, and commercial space flight.
 - ☕ I am addicted to coffee.
 
 
