@@ -4,9 +4,9 @@
 
 Here are some things about me:
 
-- 👨‍🎓 I'm a senior at the University of Utah majoring in computer science.
-- 🚀 My interests include artificial intelligence, blockchain, and spaceflight.
-- ☕ I am addicted to coffee.
+- 👨‍🎓 I'm a senior at the University of Utah majoring in computer science with a minor in Physics.
+- 🚀 My interests include artificial intelligence, blockchain, and commercial spaceflight.
+- ☕ I like coffee.
 
 
 ---
