@@ -4,7 +4,7 @@
 
 Here are some things about me:
 
-- 👨‍🎓 I'm a senior at the University of Utah majoring in computer science with a minor in Physics.
+- 👨‍🎓 I'm a senior at the University of Utah double majoring in computer science and physics.
 - 🚀 My interests include artificial intelligence, fusion energy, and commercial spaceflight.
 - ☕ I like coffee.
 
