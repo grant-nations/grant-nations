@@ -5,7 +5,7 @@
 Here are some things about me:
 
 - 👨‍🎓 I'm a senior at the University of Utah majoring in computer science with a physics minor.
-- 🚀 My interests include deep learning, social robotics, philosophy, and history.
+- 🚀 My interests include deep learning, social robotics, philosophy, history, and a bunch of other stuff.
 - ☕ I like coffee.
 
 
