@@ -1,19 +1,29 @@
-### Yo! 😎
+### Yo! 😎 I'm Grant Nations.
 
-#### My name is Grant Nations.
+### About Me
 
-Here are some things about me:
+- 🎓 I'm a senior at the University of Utah, majoring in computer science with a minor in physics.
+- 🤖 I'm passionate about deep learning, evolutionary robotics, philosophy, history, and more.
+- ☕ Coffee enthusiast.
 
-- 👨‍🎓 I'm a senior at the University of Utah majoring in computer science with a physics minor.
-- 🚀 My interests include deep learning, social robotics, philosophy, history, and a bunch of other stuff.
-- ☕ I like coffee.
+### Skills & Technologies
 
+- 💻 Python, Java, C++, C, C#, JavaScript, MATLAB
+- 🧠 Deep Learning: TensorFlow, PyTorch
+- 🌐 Web Development: React, Node.js, HTML, CSS
 
----
+### Projects
 
+- 👾 [2084](https://github.com/grant-nations/2084) - An arcade-style pixel art game made with pygame. 
+- 🚀 [Portfolio](https://github.com/grant-nations/portfolio) - A space-themed portfolio website.
+- 🇯🇵 [Kana Shuffle](https://github.com/grant-nations/kana-shuffle) - A pdf generator for practicing Japanese hiragana and katakana.
 
-Email: <nationsgrant@gmail.com>
+### Open Source Contributions
 
-LinkedIn: https://www.linkedin.com/in/grant-nations
+- ✨ [Astroplan](https://github.com/astropy/astroplan/pull/562#event-9938646986) - Add __hash__, __eq__, and __ne__ support for Observer objects
 
-Portfolio: https://www.grantnations.io
+### Get in Touch
+
+- 📧 Email: [nationsgrant@gmail.com](mailto:nationsgrant@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/grant-nations](https://www.linkedin.com/in/grant-nations)
+- 🌐 Portfolio: [grantnations.io](https://www.grantnations.io)
