@@ -3,6 +3,7 @@
 ### About Me
 
 - 🎓 I'm a senior at the University of Utah, majoring in computer science with a minor in physics.
+- 🥼 I'm a research assistant in the [Drew Research Lab](https://drl.ece.utah.edu/), working on electroaerodynamic devices.
 - 🤖 I'm passionate about deep learning, evolutionary robotics, philosophy, history, and more.
 - ☕ Coffee enthusiast.
 
