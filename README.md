@@ -1,4 +1,4 @@
-### Yo! 😎 I'm Grant Nations.
+# Hey! 😎 I'm Grant Nations.
 
 ### About Me
 
