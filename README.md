@@ -21,7 +21,7 @@
 
 ### Open Source Contributions
 
-- ✨ [Astroplan](https://github.com/astropy/astroplan/pull/562#event-9938646986) - Add __hash__, __eq__, and __ne__ support for Observer objects
+- ✨ [Astroplan](https://github.com/astropy/astroplan/pull/562#event-9938646986) - Add \_\_hash\_\_, \_\_eq\_\_, and \_\_ne\_\_ support for Observer objects
 
 ### Get in Touch
 
