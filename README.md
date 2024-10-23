@@ -3,7 +3,7 @@
 ### About Me
 
 - 🎓 I recently graduated from the University of Utah with a computer science BS and a physics minor.
-- 🥼 I'm a sensor research inter at iota Biosciences, where I work on ML models that consume electrochemical data.
+- 🥼 I'm a sensor research intern at iota Biosciences, where I work on ML models that consume electrochemical data.
 - 🤖 I'm passionate about bio-inspired machine learning, philosophy, history, and more.
 - ☕ Coffee enthusiast.
 
